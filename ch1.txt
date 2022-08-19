@@ -1,1 +1,2 @@
 initialized git local repository
+inspired by elon
